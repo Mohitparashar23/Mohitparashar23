@@ -3,6 +3,12 @@
 Calculator - My first static project for practise [Calculator](https://mohitparashar23.github.io/Calculator/) <br>
 LandingPage - [UI page](https://mohitparashar23.github.io/LandingPage/)<br>
 Cards Game - [Cards](https://mohitparashar23.github.io/Cards/)<br>
+Shadow-Effect - [Shadow](https://mohitparashar23.github.io/ShadowEffect/)<br>
+Analog & Digital Clock - [Clock](https://mohitparashar23.github.io/Clock/)<br>
+TicTacToe-Game - [TicTacToe](https://mohitparashar23.github.io/TicTacToe/)<br>
+Venom-Clone - [Venom](https://mohitparashar23.github.io/VenomClone/)<br>
+
+
 
 
 <!--
