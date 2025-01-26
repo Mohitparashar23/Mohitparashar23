@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Calculator - My first static project for practise [Calculator](https://mohitparashar23.github.io/Calculator/)
+
+
 <!--
 **Mohitparashar23/Mohitparashar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
