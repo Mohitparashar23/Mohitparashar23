@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Calculator - My first static project for practise [Calculator](https://mohitparashar23.github.io/Calculator/)
+Calculator - My first static project for practise [Calculator](https://mohitparashar23.github.io/Calculator/) <br>
 LandingPage - [UI page](https://mohitparashar23.github.io/LandingPage/)
 
 <!--
