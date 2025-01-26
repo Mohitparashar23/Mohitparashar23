@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 Calculator - My first static project for practise [Calculator](https://mohitparashar23.github.io/Calculator/) <br>
-LandingPage - [UI page](https://mohitparashar23.github.io/LandingPage/)
+LandingPage - [UI page](https://mohitparashar23.github.io/LandingPage/)<br>
+Cards Game - [Cards](https://mohitparashar23.github.io/Cards/)<br>
+
 
 <!--
 **Mohitparashar23/Mohitparashar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
